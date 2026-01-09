@@ -1,1 +1,18 @@
-
+{
+  "schema": 1,
+  "id": "test-author/test-story",
+  "title": "TestStory (PoC)",
+  "authors": [
+    "Test Author"
+  ],
+  "license": "CC-BY-4.0",
+  "description": "A placeholder story used for technical validation of Git-based story ingestion.",
+  "version": "2026-01-10T00:00:00Z",
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Chapter One",
+      "path": "chapters/001.md"
+    }
+  ]
+}
